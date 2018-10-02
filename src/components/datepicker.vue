@@ -1,0 +1,21 @@
+<template>
+  <div >
+    www
+  </div>
+</template>
+
+<script>
+export default {
+  data () {
+    return {
+    }
+  },
+  props: {
+
+  }
+}
+</script>
+
+<style scoped>
+
+</style>
