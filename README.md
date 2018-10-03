@@ -1,11 +1,14 @@
 # vue-datepicker
-calendar and datepicker component with material design for Vue.js
+
+forked from hilongjw/vue-datepicker
+
+该分支基于vue进行工程化并重构vue-datepicker
 
 # Demo
 
 The demo page is [HERE](http://hilongjw.github.io/vue-datepicker/demo.html).
 
-![Screenshot](screenshot.png)
+
 
 # Requirements
 
@@ -123,7 +126,7 @@ export default {
 
 # API
 
- - Option 
+ - Option
 
  * type
 
@@ -228,7 +231,7 @@ limit: {
 
 limit:{
   type: 'weekday',
-  available: [1, 2, 3, 4, 5] 
+  available: [1, 2, 3, 4, 5]
 }
 
 ```
